@@ -1,0 +1,27 @@
+
+body{
+    background-image: url("../img/art.jpg");
+    background-repeat: no-repeat;
+background-position: auto;
+    
+    
+    background-size:cover;
+    background-color: #a6d8e3;
+
+}
+
+
+
+.form{
+   text-align: left;
+}
+
+.container{
+    text-align: center;
+}
+
+
+
+
+
+
